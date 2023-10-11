@@ -1,0 +1,5 @@
+[book]
+authors = ["aylax.zhou"]
+language = "en"
+multilingual = false
+src = "src"
